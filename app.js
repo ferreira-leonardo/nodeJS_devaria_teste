@@ -1,1 +1,3 @@
-const u = 3
+const express = require('express')
+
+console.log(express().toString())
